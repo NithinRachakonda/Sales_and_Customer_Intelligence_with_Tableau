@@ -20,13 +20,15 @@ This repository presents a comprehensive Tableau project that delivers strategic
 - Clean UI following BI best practices and design consistency
 
 ## Repository Structure
+```
 ├── Dashboards/
-│ ├── Customer Segment Analysis.png
-│ ├── Executive Dashboard.png
-│ ├── Inventory IQ.png
-│ └── Territory Analysis.png
+│   ├── Customer Segment Analysis.png
+│   ├── Executive Dashboard.png
+│   ├── Inventory IQ.png
+│   └── Territory Analysis.png
 ├── Sales and Customer Intelligence.twbx
 └── README.md
+```
 
 - `Dashboards/`: Exported PNG snapshots of each Tableau dashboard  
 - `Sales and Customer Intelligence.twbx`: Tableau packaged workbook with all interactive dashboards  
