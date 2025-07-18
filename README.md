@@ -32,6 +32,6 @@ This repository presents a comprehensive Tableau project that delivers strategic
 
 ## Live Dashboard
 View the interactive dashboards on Tableau Public:  
-**[Tableau Public Project Link](https://public.tableau.com/app/profile/your-profile-name/viz/your-project-name)**  
+**[Tableau Public Project Link]([https://public.tableau.com/app/profile/your-profile-name/viz/your-project-name](https://public.tableau.com/app/profile/vinod.nithin.kumar.rachakonda/viz/Full-FunnelBIonAdventureWorksAnEnd-to-EndTableauAnalysis/ExecutiveDashboard))**  
 
 > *This is an academic project developed to demonstrate advanced Tableau capabilities and business intelligence best practices.*
