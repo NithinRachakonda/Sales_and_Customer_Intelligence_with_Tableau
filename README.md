@@ -30,8 +30,8 @@ This repository presents a comprehensive Tableau project that delivers strategic
 - `Sales and Customer Intelligence.twbx`: Tableau packaged workbook with all interactive dashboards  
 - `README.md`: Documentation for project overview and structure
 
-## Live Dashboard
+## Live Dashboard  
 View the interactive dashboards on Tableau Public:  
-**[Tableau Public Project Link]([https://public.tableau.com/app/profile/vinod.nithin.kumar.rachakonda/viz/Full-FunnelBIonAdventureWorksAnEnd-to-EndTableauAnalysis/ExecutiveDashboard])**  
+**[Tableau Public Project Link](https://public.tableau.com/app/profile/vinod.nithin.kumar.rachakonda/viz/Full-FunnelBIonAdventureWorksAnEnd-to-EndTableauAnalysis/ExecutiveDashboard)**
 
 > *This is an academic project developed to demonstrate advanced Tableau capabilities and business intelligence best practices.*
